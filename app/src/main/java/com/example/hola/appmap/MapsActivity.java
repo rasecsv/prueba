@@ -129,8 +129,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         final LatLng punto6= new LatLng(-12.055212,-77.080720);
         final LatLng punto7= new LatLng(-12.055139,-77.079476);
         final LatLng punto8= new LatLng(-12.055076,-77.081836);
-        mMap.addMarker(new MarkerOptions().position(punto1).title("Cochera1"));
 
+        mMap.addMarker(new MarkerOptions().position(punto1).title("Cochera1"));
         mMap.addMarker(new MarkerOptions().position(punto2).title("Cochera2"));
         mMap.addMarker(new MarkerOptions().position(punto3).title("Cochera3"));
         mMap.addMarker(new MarkerOptions().position(punto4).title("Cochera4"));

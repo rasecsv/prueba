@@ -4,4 +4,15 @@
     <string name="hint_user">User</string>
     <string name="hint_password">Password</string>
     <string name="text_login">Login</string>
+    <string name="slogin">Parkeame ya!...
+                         tu lugar tu seguridad...</string>
+    <string name="inicio">inicio</string>
+    <string name="usuario">usuario</string>
+    <string name="acerca">acerca</string>
+    <string name="contactenos" />
+    <string name="Perfil" />
+    <string name="Inicio" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

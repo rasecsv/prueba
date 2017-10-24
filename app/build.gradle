@@ -25,10 +25,12 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
 
-    compile 'com.android.support:appcompat-v7:24.+'
-    compile 'com.google.android.gms:play-services-maps:10.2.4'
-    testCompile 'junit:junit:4.12'
-    compile 'com.google.android.gms:play-services-maps:6.5.87'
-    compile 'com.android.support:design:25.1.1'
 
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.google.android.gms:play-services-maps:11.0.4'
+    compile 'com.android.support:design:25.1.1'
+    compile 'info.hoang8f:fbutton:1.0.5'
+    compile 'com.rengwuxian.materialedittext:library:2.1.4'
+    compile 'com.android.support:support-v4:24.2.1'
+    testCompile 'junit:junit:4.12'
 }

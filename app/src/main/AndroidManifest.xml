@@ -19,17 +19,22 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
 
-        android:label="EasyPark"
+        android:label="Parkeame ya!"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDTQVIayTcX5D6SLGmbZaPisDQHLpIxTto" />
-        <activity android:name=".login">
+        <activity android:name=".menulogin">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".login"></activity>
+        <activity android:name=".MapsActivity">
+
+        </activity>
+
     </application>
 
 </manifest>
